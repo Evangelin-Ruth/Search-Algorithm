@@ -105,6 +105,9 @@ else:
 ```
 ## Output
 
+![search1](https://user-images.githubusercontent.com/94219798/152291893-820642ba-bd72-442b-abfe-2a0a731ed0be.JPG)
+![search2](https://user-images.githubusercontent.com/94219798/152291924-0a6f51fe-d9cb-4606-a6aa-a40871e2b2b0.JPG)
+![search3](https://user-images.githubusercontent.com/94219798/152291941-ad62f42d-9ae5-4874-b9f7-215cc0ce3642.JPG)
 
 
 
